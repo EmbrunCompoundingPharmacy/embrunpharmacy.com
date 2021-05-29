@@ -1,0 +1,158 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Embrun Ida Compounding Pharmacy.html" resolutions="1x" timestamp="1579458497481">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="services.css" crc="108125289" ref="services"/>
+    <file name="index.css" crc="4064882127" ref="index"/>
+    <file name="compounding.css" crc="3866431546" ref="compounding"/>
+    <file name="contact-us.css" crc="3986417197" ref="contact-us"/>
+    <file name="medical-inquiries-sample-page.css" crc="3823614772" ref="medical-inquiries-sample-page"/>
+    <file name="about-us.css" crc="3808760837" ref="about-us"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about-us:compounding:services:contact-us:medical-inquiries-sample-page"/>
+    <file name="museutils.js" crc="17924269" ref="index:about-us:compounding:services:contact-us:medical-inquiries-sample-page"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about-us:compounding:services:contact-us:medical-inquiries-sample-page"/>
+    <file name="museconfig.js" crc="144853533" ref="index:about-us:compounding:services:contact-us:medical-inquiries-sample-page"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index:about-us:compounding:services:contact-us:medical-inquiries-sample-page"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:about-us:compounding:services:contact-us:medical-inquiries-sample-page"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:compounding:services:contact-us:medical-inquiries-sample-page"/>
+    <file name="require.js" crc="3861931657" ref="index:about-us:compounding:services:contact-us:medical-inquiries-sample-page"/>
+  </folder>
+  <folder name="images">
+    <file name="u1477-4.png" crc="354306269" ref="index"/>
+    <file name="pharmacy front-crop-u1634.jpg" crc="4253279863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1652-4.png" crc="4143348125" ref="index"/>
+    <file name="u1923-4.png" crc="413867405" ref="index"/>
+    <file name="u2225-4.png" crc="225882144" ref="index"/>
+    <file name="prescription button standard.jpg" crc="4216570321" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="prescription button rollover.jpg" crc="4014159330" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="medical inquiries standard.jpg" crc="257262018" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="medical inquiries rollover.jpg" crc="4080127226" ref="index:services">
+      <caption webpage="index" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="compounds button standard.jpg" crc="334038216" ref="index:compounding">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="compounding" alt=""/>
+      <caption webpage="compounding" alt=""/>
+    </file>
+    <file name="compounds button rollover.jpg" crc="409144970" ref="index:compounding">
+      <caption webpage="index" alt=""/>
+      <caption webpage="compounding" alt=""/>
+    </file>
+    <file name="u2206-4.png" crc="292547968" ref="index"/>
+    <file name="u2234-4.png" crc="3873073145" ref="index"/>
+    <file name="u2249-4.png" crc="4077235027" ref="index"/>
+    <file name="u2228-4.png" crc="4181301000" ref="index"/>
+    <file name="u2231-4.png" crc="3765953590" ref="index"/>
+    <file name="embrun logo banner.jpg" crc="407594385" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1884-7.png" crc="4193032765" ref="index"/>
+    <file name="embrun logo banner806x41.jpg" crc="4230110002" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="u1474-4.png" crc="4107453868" ref="about-us"/>
+    <file name="u1401-4.png" crc="4050688958" ref="about-us"/>
+    <file name="img_0763-crop-u2267.jpg" crc="490480695" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="u1405-4.png" crc="3922062799" ref="about-us"/>
+    <file name="u3166-6.png" crc="4175507933" ref="about-us"/>
+    <file name="u3169-6.png" crc="120070633" ref="about-us"/>
+    <file name="img_0773.jpg" crc="490048631" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="img_0772.jpg" crc="4139380891" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+    <file name="u3172-6.png" crc="4221043908" ref="about-us"/>
+    <file name="u3175-4.png" crc="450623968" ref="about-us"/>
+    <file name="u3186-7.png" crc="3965590458" ref="about-us"/>
+    <file name="u1420-4.png" crc="4244203068" ref="compounding"/>
+    <file name="img_20200115_114759.jpg" crc="4073910411" seo="true" ref="compounding">
+      <caption webpage="compounding" alt=""/>
+    </file>
+    <file name="u1471-4.png" crc="430908010" ref="compounding"/>
+    <file name="u3065-4.png" crc="3789568087" ref="compounding"/>
+    <file name="u3069-4.png" crc="3955183219" ref="compounding"/>
+    <file name="u3077-32.png" crc="4215535360" ref="compounding"/>
+    <file name="u3097-4.png" crc="405758270" ref="compounding"/>
+    <file name="u3101-4.png" crc="139470003" ref="compounding"/>
+    <file name="u3081-4.png" crc="271794778" ref="compounding"/>
+    <file name="u3117-4.png" crc="3861631728" ref="compounding"/>
+    <file name="u1480-4.png" crc="4274976296" ref="services"/>
+    <file name="services pic.jpg" crc="3944082084" seo="true" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u2289-4.png" crc="4237014267" ref="services"/>
+    <file name="u2402-4.png" crc="4109540021" ref="services"/>
+    <file name="u2406-4.png" crc="4240555043" ref="services"/>
+    <file name="u2417-34.png" crc="443548210" ref="services"/>
+    <file name="u2424-4.png" crc="4262418394" ref="services"/>
+    <file name="u2446-4.png" crc="66918751" ref="services"/>
+    <file name="u2449-4.png" crc="4183697022" ref="services"/>
+    <file name="u2463-4.png" crc="4110565483" ref="services"/>
+    <file name="u2466-6.png" crc="221045304" ref="services"/>
+    <file name="purolator button.jpg" crc="3802341641" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="ups button.jpg" crc="275256755" ref="services">
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u2547-4.png" crc="3856308275" ref="contact-us"/>
+    <file name="u2550-4.png" crc="251736945" ref="contact-us"/>
+    <file name="u2560-4.png" crc="493637317" ref="contact-us"/>
+    <file name="u2553-16.png" crc="4166433059" ref="contact-us"/>
+    <file name="facebook button.jpg" crc="519755866" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="insta button.jpg" crc="3949151569" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="twitter button.jpg" crc="3889063337" ref="contact-us">
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+    </file>
+    <file name="u2860-4.png" crc="3983394728" ref="medical-inquiries-sample-page"/>
+    <file name="u3210-4.png" crc="506403401" ref="medical-inquiries-sample-page"/>
+    <file name="u3218-84.png" crc="437525155" ref="medical-inquiries-sample-page"/>
+    <file name="blank.gif" crc="4208392903" ref="medical-inquiries-sample-page"/>
+    <file name="u2933.png" crc="301654501" ref="medical-inquiries-sample-page"/>
+    <file name="u2933-r.png" crc="301654501" ref="medical-inquiries-sample-page"/>
+    <file name="u2916.png" crc="62184313" ref="medical-inquiries-sample-page"/>
+    <file name="u2916-r.png" crc="62184313" ref="medical-inquiries-sample-page"/>
+    <file name="img_0781-crop-u3136-crop-u3136.jpg" crc="4236747027" seo="true" ref="about-us">
+      <caption webpage="about-us" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4186015750" seo="true" mt="1579323537773" redirect="true"/>
+  <file name="about-us.html" crc="4229821946" seo="true" mt="1579458481498" redirect="true"/>
+  <file name="compounding.html" crc="3926669817" seo="true" mt="1579230977785" redirect="true"/>
+  <file name="services.html" crc="364252219" seo="true" mt="1579120923107" redirect="true"/>
+  <file name="contact-us.html" crc="90322013" seo="true" mt="1579149797700" redirect="true"/>
+  <file name="medical-inquiries-sample-page.html" crc="3984805747" seo="true" mt="1579323484357" redirect="true"/>
+</manifest>
